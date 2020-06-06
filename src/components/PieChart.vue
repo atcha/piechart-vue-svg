@@ -16,12 +16,12 @@
         name: "PieChart",
         props: {
             pieWidth: {
-                type: Number,
-                default: 500
+                type: String,
+                default: '100%'
             },
             pieHeight: {
-                type: Number,
-                default: 500
+                type: String,
+                default: '100%'
             },
             innerColor: {
                 type: String,

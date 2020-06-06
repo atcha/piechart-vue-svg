@@ -1,8 +1,8 @@
 <template>
     <div id="app" class="m-5">
         <h1 class="font-bold text-2xl text-blue-600 uppercase mb-10">Create your SVG PieChart</h1>
-        <div class="flex">
-            <div class="w-60 mr-20">
+        <div class="flex flex-col items-center md:flex-row">
+            <div class="w-48 md:w-64 md:mr-20">
                 <pie-chart :slices="slices"></pie-chart>
             </div>
             <div class="bg-gray-100 shadow-md rounded px-8 pt-6 pb-8 mb-4">
