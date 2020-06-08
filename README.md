@@ -1,6 +1,7 @@
 # piechart-vue-svg
 
 This project is build to show you how to make a pie chart with SVG.
+It is made with vue-cli.
 
 ## Project setup
 ```
