@@ -1,5 +1,7 @@
 # piechart-vue-svg
 
+This project is build to show you how to make a pie chart with SVG.
+
 ## Project setup
 ```
 npm install
@@ -27,3 +29,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Demo
+https://piechart-svg.netlify.app/
